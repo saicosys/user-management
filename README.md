@@ -1,4 +1,4 @@
-# Saicosys User Management plugin for CakePHP 4
+# User Management plugin for CakePHP 4
 This is a free CakePHP 4 simple user management system. Using this plugin you can add login, registration, forgot password, reset password, email verification, and some user related notification into your application.
 
 ## Installation
