@@ -1,6 +1,6 @@
 {
-    "name": "your-name-here/UserManagement",
-    "description": "UserManagement plugin for CakePHP",
+    "name": "Saicosys/UserManagement",
+    "description": "Saicosys User Management plugin for CakePHP 4",
     "type": "cakephp-plugin",
     "license": "MIT",
     "require": {
