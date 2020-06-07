@@ -1,8 +1,17 @@
 {
     "name": "Saicosys/UserManagement",
-    "description": "Saicosys User Management plugin for CakePHP 4",
+    "description": "This is a free CakePHP 4 simple user management system. Using this plugin you can add login, registration, forgot password, reset password, email verification, and some user related notification into your application.",
     "type": "cakephp-plugin",
+    "keywords": ["users", "user-management", "login", "registration", "signup"],
+    "homepage": "http://github.com/burzum/cakephp-user-tools",
     "license": "MIT",
+    "authors": [
+        {
+            "name": "Saicosys Technologies Team",
+            "role":"Author",
+            "homepage": "https://www.saicosys.com/project/user-management"
+        }
+    ],
     "require": {
         "php": ">=7.2",
         "cakephp/cakephp": "^4.0"
@@ -20,5 +29,7 @@
             "UserManagement\\Test\\": "tests/",
             "Cake\\Test\\": "vendor/cakephp/cakephp/tests/"
         }
-    }
+    },
+    "minimum-stability": "stable",
+    "prefer-stable": true
 }
