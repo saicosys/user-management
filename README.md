@@ -8,5 +8,5 @@ You can install this plugin into your CakePHP application using [composer](https
 The recommended way to install composer packages is:
 
 ```
-composer require saicosys/saicosys-user-management
+composer require saicosys/user-management
 ```
